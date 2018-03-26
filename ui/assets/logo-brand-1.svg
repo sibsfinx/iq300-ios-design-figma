@@ -1,26 +1,33 @@
 <svg width="103" height="43" viewBox="0 0 103 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>logo-brand</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(1305 666)">
+<g id="Canvas" transform="translate(1305 -476)">
+<rect x="-1305" y="476" width="103" height="43" fill="#FFFFFF"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -1430 -758L 2202 -758L 2202 869L -1430 869L -1430 -758Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="ui/styleguide" clip-path="url(#clip-0)">
+<path d="M -1430 -758L 2202 -758L 2202 869L -1430 869L -1430 -758Z" fill="#FFFFFF"/>
 <g id="assets/logo-brand">
 <g id="logo-brand">
 <g id="Fill 1">
-<use xlink:href="#path0_fill" transform="translate(-1305 -665.271)" fill="#3B5B78"/>
+<use xlink:href="#path0_fill" transform="translate(-1305 476.729)" fill="#3B5B78"/>
 </g>
 <g id="Fill 2">
-<use xlink:href="#path1_fill" transform="translate(-1278.52 -666)" fill="#3B5B78"/>
+<use xlink:href="#path1_fill" transform="translate(-1278.52 476)" fill="#3B5B78"/>
 </g>
 <g id="Fill 5">
-<use xlink:href="#path2_fill" transform="translate(-1237.92 -665.047)" fill="#3B5B78"/>
+<use xlink:href="#path2_fill" transform="translate(-1237.92 476.953)" fill="#3B5B78"/>
 </g>
 <g id="Fill 3">
-<use xlink:href="#path3_fill" transform="translate(-1226.55 -649.806)" fill="#FFFFFF"/>
+<use xlink:href="#path3_fill" transform="translate(-1226.55 492.194)" fill="#FFFFFF"/>
 </g>
 <g id="Fill 4">
-<use xlink:href="#path4_fill" transform="translate(-1218.27 -649.806)" fill="#FFFFFF"/>
+<use xlink:href="#path4_fill" transform="translate(-1218.27 492.194)" fill="#FFFFFF"/>
 </g>
 <g id="Path">
-<use xlink:href="#path5_fill" transform="translate(-1234.62 -649.584)" fill="#FFFFFF"/>
+<use xlink:href="#path5_fill" transform="translate(-1234.62 492.416)" fill="#FFFFFF"/>
+</g>
 </g>
 </g>
 </g>
